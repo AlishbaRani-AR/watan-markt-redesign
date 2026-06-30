@@ -25,3 +25,6 @@ The original landing page was audited for design flaws, and a new homepage was b
 2. Import the database
 3. Configure `wp-config.php` with your database credentials
 4. Run on localhost using Local by WP Engine
+
+## Demo Video
+[Watch the landing page walkthrough](./watan markt (3).mp4)
