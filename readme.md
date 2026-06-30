@@ -27,4 +27,10 @@ The original landing page was audited for design flaws, and a new homepage was b
 4. Run on localhost using Local by WP Engine
 
 ## Demo Video
-[Watch the landing page walkthrough](./watan markt (3).mp4)
+
+
+https://github.com/user-attachments/assets/15dfb5dd-854c-4025-b148-31c3707ab4ed
+
+
+
+
